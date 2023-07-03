@@ -6,4 +6,4 @@ running on linux OS only
 sudo apt-get install mysql-server
 
 # Demo
-<iframe width="560" height="315" src="https://youtu.be/ScqHLX41XYc" frameborder="0" allowfullscreen></iframe>
+[![Demo](https://img.youtube.com/vi/ScqHLX41XYc/0.jpg)](https://www.youtube.com/watch?v=ScqHLX41XYc)
