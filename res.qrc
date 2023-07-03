@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/musicicon.png</file>
+        <file>image/musicicon2.png</file>
+        <file>image/heart.png</file>
+        <file>image/heart2.png</file>
+        <file>image/likeClicked.png</file>
+        <file>image/likeUnclicked.png</file>
+        <file>image/btn_close.png</file>
+        <file>image/btn_close_hover.png</file>
+        <file>image/btn_min.png</file>
+        <file>image/btn_min_hover.png</file>
+        <file>image/next.png</file>
+        <file>image/play.png</file>
+        <file>image/pause.png</file>
+        <file>image/prev.png</file>
+        <file>image/next_h.png</file>
+        <file>image/prev_h.png</file>
+        <file>image/defaultCD.png</file>
+        <file>image/volume.png</file>
+        <file>image/slider.png</file>
+        <file>image/slides/slide1.png</file>
+        <file>image/slides/slide2.png</file>
+        <file>image/slides/slide3.png</file>
+        <file>image/slides/slide4.png</file>
+        <file>image/lyrics.png</file>
+        <file>image/Diamonds.png</file>
+        <file>image/简单爱.png</file>
+        <file>image/StopLove.png</file>
+        <file>image/后来的我们.png</file>
+        <file>image/back.png</file>
+        <file>image/forward.png</file>
+    </qresource>
+</RCC>

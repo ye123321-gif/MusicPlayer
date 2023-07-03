@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>PictureSlideShow</class>
+ <widget class="QWidget" name="PictureSlideShow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>491</width>
+    <height>191</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QGraphicsView" name="graphicsView">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>10</y>
+     <width>471</width>
+     <height>171</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_leftview">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>90</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_rightview">
+   <property name="geometry">
+    <rect>
+     <x>440</x>
+     <y>90</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="pictureButton" name="picButton1" native="true">
+   <property name="geometry">
+    <rect>
+     <x>230</x>
+     <y>182</y>
+     <width>0</width>
+     <height>20</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="pictureButton" name="picButton2" native="true">
+   <property name="geometry">
+    <rect>
+     <x>240</x>
+     <y>182</y>
+     <width>0</width>
+     <height>20</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="pictureButton" name="picButton3" native="true">
+   <property name="geometry">
+    <rect>
+     <x>250</x>
+     <y>182</y>
+     <width>0</width>
+     <height>20</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="pictureButton" name="picButton4" native="true">
+   <property name="geometry">
+    <rect>
+     <x>260</x>
+     <y>182</y>
+     <width>0</width>
+     <height>20</height>
+    </rect>
+   </property>
+  </widget>
+ </widget>
+ <customwidgets>
+  <customwidget>
+   <class>pictureButton</class>
+   <extends>QWidget</extends>
+   <header>picturebutton.h</header>
+   <container>1</container>
+  </customwidget>
+ </customwidgets>
+ <resources/>
+ <connections/>
+</ui>
